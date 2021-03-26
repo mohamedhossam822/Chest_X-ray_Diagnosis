@@ -9,6 +9,6 @@ X-rays. Our database consists of patients suffering from COVID-19, Pneumonia, an
   <li> We repeat this procedure for the COVID-19, Pneumonia, and normal Patients' X-rays and then merge all corresponding training , validation, testing arrays</li>
   <li> Split our arrays into batches to ease up the training and testing procedures</li><br>
   
-  <p>🎇🎇 We have implemented the basic neural network structure then the imrpoved version of them so we will start with the basic ones 😉🎇🎇</p>
+  <p>🎇🎇 We have implemented the basic neural network structure then the imrpoved version of them so we will start with the basic ones 😉</p>
   
 </ol>
