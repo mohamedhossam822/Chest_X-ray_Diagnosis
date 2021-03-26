@@ -13,12 +13,7 @@ X-rays. Our database consists of patients suffering from COVID-19, Pneumonia, an
   <ol>
   <li><h3> Fully Connected Neural Network:</h3>
   <p> We implement fully connected neural network either with few hidden layers (3 hidden layers) or many hidden layers (9 hidden layers) to compare accuracy and then use the Relu activation function in the forward propagation process.</p><br>
-  <p float="center">
-  <img src="https://cdn.discordapp.com/attachments/598537237738815488/824990567099793408/unknown.png" width="370" />
-  <img src="https://cdn.discordapp.com/attachments/598537237738815488/824990417048436737/unknown.png" width="370" /> 
- </p>
- 
-  </li>
+  <img src="https://cdn.discordapp.com/attachments/598537237738815488/824990567099793408/unknown.png" width="370"/><br></li>
   
   
   
