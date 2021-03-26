@@ -22,5 +22,5 @@ X-rays. Our database consists of patients suffering from COVID-19, Pneumonia, an
   <img src="https://cdn.discordapp.com/attachments/598537237738815488/824996322158968892/unknown.png" width="370"/>
 </li></ol>
   
-  <h3>🎇🎇 Now for the improved NN models 🎇🎇 </h3><br>
+  <h3>                                          🎇🎇 Now for the improved NN models 🎇🎇 </h3><br>
 </ol>
