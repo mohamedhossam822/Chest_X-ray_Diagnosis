@@ -18,7 +18,9 @@ X-rays. Our database consists of patients suffering from COVID-19, Pneumonia, an
   
   
   <li><h3> Convolutional Neural Network:</h3>
-  <p> Like the Fully connected NN, the CNN uses linear hidden layers but with the addition of convolutional hidden layers and also by using the Relu activation function in the forward propagation process.</p><br></li></ol>
+  <p> Like the Fully connected NN, the CNN uses linear hidden layers but with the addition of convolutional hidden layers and also by using the Relu activation function in the forward propagation process.</p><br>
+  <img src="https://cdn.discordapp.com/attachments/598537237738815488/824996322158968892/unknown.png" width="370"/>
+</li></ol>
   
   <h3>🎇🎇 We have implemented the basic neural network structure then the imrpoved version of them so we will start with the basic ones 😉</h3><br>
 </ol>
