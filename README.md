@@ -9,8 +9,11 @@ X-rays. Our database consists of patients suffering from COVID-19, Pneumonia, an
   <li> We repeat this procedure for the COVID-19, Pneumonia, and normal Patients' X-rays and then merge all corresponding training , validation, testing arrays</li>
   <li> Split our arrays into batches to ease up the training and testing procedures</li><br>
   
-  <h3>🎇🎇 We have implemented the basic neural network structure then the imrpoved version of them so we will start with the basic ones 😉</h3>
+  <h3>🎇🎇 We have implemented the basic neural network structure then the imrpoved version of them so we will start with the basic ones 😉</h3><br>
   
-  <h3> Fully Connected Neural Network </h3>
-  <p> We implement fully connected neural network with 3 hidden layers and then use the Relu activation function in the forward propagation process</p>
+  <h3> Fully Connected Neural Network:</h3>
+  <p> We implement fully connected neural network either with few hidden layers (3 hidden layers) or many hidden layers (9 hidden layers) to compare accuracy and then use the Relu activation function in the forward propagation process.</p><br>
+  
+  <h3> Convolutional Neural Network:</h3>
+  <p> Like the Fully connected NN, the CNN uses linear hidden layers but with the addition of convolutional hidden layers and also by using the Relu activation function in the forward propagation process.</p><br>
 </ol>
